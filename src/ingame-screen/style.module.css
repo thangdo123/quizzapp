@@ -135,6 +135,7 @@
 
 .answer:hover {
   background-color: #312d81;
+  color: white;
 }
 
 .answerSelected {
